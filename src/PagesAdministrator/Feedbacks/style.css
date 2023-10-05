@@ -1,0 +1,12 @@
+.student {
+    width: auto;
+   
+}
+
+.search {
+    display: flex;
+}
+
+.ant-notification {
+    z-index: 10000000000;
+}

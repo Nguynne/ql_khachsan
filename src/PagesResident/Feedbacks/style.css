@@ -1,0 +1,15 @@
+.student {
+    width: auto;
+   
+}
+
+.search {
+    display: flex;
+}
+
+.ant-notification {
+    z-index: 10000000000;
+}
+.color3 {
+    background-color:#f0f2f5;
+  }

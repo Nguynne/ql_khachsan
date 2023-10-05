@@ -1,0 +1,16 @@
+.newsForm-btn {
+    margin-right: auto;
+}
+
+.news-breadcrumb {
+    font-size: 14px;
+    color: rgb(179, 178, 178);
+    padding-bottom: 15px;
+    margin: 0;
+}
+
+.news-title {
+    font-size: 20px;
+    color: gray;
+    padding-bottom: 15px;
+}

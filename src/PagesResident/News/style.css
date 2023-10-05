@@ -1,0 +1,25 @@
+.student1 {
+    width: auto;
+   margin: 5px;
+}
+
+.search {
+    display: flex;
+}
+
+.ant-notification {
+    z-index: 10000000000;
+}
+.color1{
+    color: darkgreen;
+}
+.color2{
+    color:blue;
+}
+.fontp{
+font-size: 11px;
+text-decoration: none;
+}
+.color3 {
+    background-color:#f0f2f5;
+  }

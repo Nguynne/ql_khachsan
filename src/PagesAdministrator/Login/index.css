@@ -1,0 +1,91 @@
+/* .ant-layout-content {
+    background-color: #f0f2f5 !important;
+  }
+  
+  .userContainer {
+    display: flex;
+    float: right;
+    justify-content: right;
+    align-items: center;
+   
+    width: 12%;
+    margin: auto;
+  }
+  
+  .user {
+    width: 100%;
+    float: right;
+    width: 350px;
+    border: 1px solid black;
+    padding: 10px;
+  }
+  
+  .user:hover {
+    background-color: #ccc;
+  }
+  
+  .translate {
+    padding: 10px;
+  }
+  
+  .div {
+    padding: 10px;
+    width: 100%;
+  }
+  .div:hover {
+    background-color: #e6f7ff;
+    color: #1890ff;
+  }
+  .noneLink {
+    text-decoration: none;
+    font-size: 11px;
+  }
+  html, body {
+    height: 100%;
+    margin: 0;
+  } */
+
+.login-container {
+  padding: 30px;
+  background-image: url('./loginBackground.jpg');
+  height: 100vh;
+}
+
+.login-title {
+  text-align: center;
+  font-size: 37px;
+  margin: 0;
+  padding-bottom: 10px;
+  padding-top: 70px;
+}
+
+.login-extra {
+  text-align: center;
+  color: gray;
+  padding-bottom: 35px;
+}
+
+.auth-title {
+  text-align: center;
+  color: #1890ff;
+  padding-bottom: 5px;
+  border-bottom: 2px solid #1890ff;
+  width: 170px;
+  margin: auto;
+  font-size: 17px;
+  font-weight: 550;
+}
+
+.login-form-new {
+  max-width: 300px;
+  margin: auto;
+  padding-top: 30px;
+}
+
+.login-form-forgot {
+  float: left;
+}
+
+.login-form-button {
+  width: 100%;
+}

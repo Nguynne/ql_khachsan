@@ -1,0 +1,25 @@
+.flex {
+    display: flex;
+    font-size: large;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+    
+}
+.flex-column img {
+    object-fit: cover;
+}
+.imgsize1 {
+    width: 120px; 
+    height: 80px;
+}
+.imgsize2 {
+    width: 600px; 
+    height: 240px;
+}
+.imgsize3 {
+    width: 360px; 
+    height: 180px;
+}
